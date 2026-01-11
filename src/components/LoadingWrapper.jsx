@@ -12,7 +12,7 @@ const Loader = () => {
             <div className="relative">
                 {/* Animated logo */}
                 <motion.img
-                    src="/logo.png?v=4"
+                    src="/logob.png?v=4"
                     alt="SpeedCodx"
                     className="h-32 md:h-40 w-auto relative z-10"
                     initial={{ scale: 0.8, opacity: 0 }}

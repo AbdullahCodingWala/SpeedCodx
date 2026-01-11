@@ -32,7 +32,7 @@ const Navbar = () => {
                     className="flex items-center gap-3 group"
                 >
                     <div className="relative">
-                        <img src="/logo.png?v=4" alt="SpeedCodx" className="h-12 md:h-16 w-auto transition-transform group-hover:scale-110" />
+                        <img src="/logob.png?v=4" alt="SpeedCodx" className="h-12 md:h-16 w-auto transition-transform group-hover:scale-110" />
                         <div className="absolute inset-0 bg-yellow-500/20 rounded-full blur-xl opacity-0 group-hover:opacity-100 transition-opacity" />
                     </div>
                     <span className="font-heading font-black text-xl md:text-2xl tracking-tight">
